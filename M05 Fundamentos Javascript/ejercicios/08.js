@@ -13,4 +13,4 @@ console.log("2. segundo consolelog", esNumeroEntero(3.3))
 
 
 
-module.exports = esNumeroEntero;
+module.exports = esNumeroEntero;  
