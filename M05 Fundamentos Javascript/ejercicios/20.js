@@ -22,8 +22,8 @@ function esVocal(letra) {
 
 
 }
-console.log(esVocal("e"));
-console.log(esVocal("arbol"));
-console.log(esVocal("4"));
+console.log("(1. es mi consolelog)", esVocal("e"));
+console.log("(2. es mi consolelog)", esVocal("arbol"));
+console.log("(3. es mi consolelog)", esVocal("4"));
 
 module.exports = esVocal;
