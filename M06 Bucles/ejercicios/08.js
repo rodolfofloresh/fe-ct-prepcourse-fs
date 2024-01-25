@@ -5,7 +5,7 @@ function esPositivoOInferiorA10(a) {
    // Tu código:
 
    
-   return a > 0 && a<10;
+   return a > 0 && a < 10;
    
   
 
