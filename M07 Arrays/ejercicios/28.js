@@ -7,7 +7,7 @@ function esArrayNoVacio(arr) {
 
 }
 
-var miarray = [];
+var miarray = [1, 2, 3];
 var resultado = esArrayNoVacio(miarray);
 console.log(resultado);
 
